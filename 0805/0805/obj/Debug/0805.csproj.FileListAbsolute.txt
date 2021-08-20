@@ -1,0 +1,11 @@
+D:\C#\0805\0805\bin\Debug\0805.exe.config
+D:\C#\0805\0805\bin\Debug\0805.exe
+D:\C#\0805\0805\bin\Debug\0805.pdb
+D:\C#\0805\0805\obj\Debug\0805.csprojAssemblyReference.cache
+D:\C#\0805\0805\obj\Debug\_0805.Form1.resources
+D:\C#\0805\0805\obj\Debug\_0805.Properties.Resources.resources
+D:\C#\0805\0805\obj\Debug\0805.csproj.GenerateResource.cache
+D:\C#\0805\0805\obj\Debug\0805.csproj.CoreCompileInputs.cache
+D:\C#\0805\0805\obj\Debug\0805.exe
+D:\C#\0805\0805\obj\Debug\0805.pdb
+D:\C#\0805\0805\obj\Debug\_0805.Form3.resources
